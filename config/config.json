@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0x023e1Df4f2b01FaBb472907F228201a5E1e22E08",
+  "CONTRACT_ADDRESS": "0x4C662444bDea1987b3093b05A5aCEE42fB2c256B",
+  
+  
+  "SCAN_LINK": "https://Etherscan.com/address/0x4C662444bDea1987b3093b05A5aCEE42fB2c256B ",
+  "NETWORK": {
+    "NAME": "Mumbai testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "DickPunks",
+  "SYMBOL": "DP",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 10,
+
+  "DISPLAY_COST": 0.085,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/DickPunks",
+  "SHOW_BACKGROUND": true
+}
